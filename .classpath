@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="wevo.core/src/main/java"/>
+	<classpathentry kind="src" path="wevo.master/src/main/java"/>
+	<classpathentry kind="src" path="wevo.slave/src/main/java"/>
+	<classpathentry kind="src" path="wevo.core/src/test/java"/>
+	<classpathentry kind="src" path="wevo.classification/src/main/java"/>
+	<classpathentry kind="src" path="wevo.classification/src/test/java"/>
+	<classpathentry kind="con" path="org.maven.ide.eclipse.MAVEN2_CLASSPATH_CONTAINER"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>

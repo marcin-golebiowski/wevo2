@@ -1,0 +1,7 @@
+ENVI
+samples = 3
+bands = 3
+lines = 1
+byte order = 0
+header offset = 7
+interleave = bsq
